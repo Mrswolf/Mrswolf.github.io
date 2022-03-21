@@ -60,4 +60,25 @@
     
   </entry>
   
+  <entry>
+    <title>MATLAB分布式集群搭建记录</title>
+    <link href="https://mrswolf.github.io/2019/05/20/MATLAB%E5%88%86%E5%B8%83%E5%BC%8F%E9%9B%86%E7%BE%A4%E6%90%AD%E5%BB%BA%E8%AE%B0%E5%BD%95/"/>
+    <id>https://mrswolf.github.io/2019/05/20/MATLAB%E5%88%86%E5%B8%83%E5%BC%8F%E9%9B%86%E7%BE%A4%E6%90%AD%E5%BB%BA%E8%AE%B0%E5%BD%95/</id>
+    <published>2019-05-19T16:00:00.000Z</published>
+    <updated>2022-03-20T16:00:00.000Z</updated>
+    
+    
+    <summary type="html">&lt;!-- toc --&gt;
+&lt;p&gt;&lt;strong&gt;本篇的内容可能过时啦&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;虽然我很久不用MATLAB处理日常工作，但是实验室主流依然是MATLAB（用Python的就那么几个T_T)。以前小伙伴们跑程序都是拷贝程序和数据到实验室的计算服务器上，手工开N个MATLAB窗口做运算。现在实验室规模扩大，这种手工的方式越来越繁琐。我从前用MATLAB时就想试试集群计算，奈何当时实验室没啥硬件条件，正好现在有机会，我干脆搭了个MATLAB集群供小伙伴使用。</summary>
+    
+    
+    
+    <category term="分布式计算" scheme="https://mrswolf.github.io/categories/%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%A1%E7%AE%97/"/>
+    
+    
+    <category term="matlab" scheme="https://mrswolf.github.io/tags/matlab/"/>
+    
+  </entry>
+  
 </feed>
