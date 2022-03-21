@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>swolf的博客</title>
+  
+  <subtitle>记录我的学习生活</subtitle>
+  <link href="https://mrswolf.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://mrswolf.github.io/"/>
+  <updated>2022-03-20T16:00:00.000Z</updated>
+  <id>https://mrswolf.github.io/</id>
+  
+  <author>
+    <name>swolf</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>manjaro踩坑记(2022更新版)</title>
+    <link href="https://mrswolf.github.io/2019/05/24/manjaro%E8%B8%A9%E5%9D%91%E8%AE%B0/"/>
+    <id>https://mrswolf.github.io/2019/05/24/manjaro%E8%B8%A9%E5%9D%91%E8%AE%B0/</id>
+    <published>2019-05-23T16:00:00.000Z</published>
+    <updated>2022-03-20T16:00:00.000Z</updated>
+    
+    
+    <summary type="html">&lt;!-- toc --&gt;
+&lt;p&gt;从2019年到2022年，manjaro发行版渡过了我的整个博士生涯。最近毕业重新装了系统，依然选择了最新的&lt;a href=&quot;https://manjaro.org/downloads/official/kde/&quot;&gt;manjaro KDE Plasma 21.2.4&lt;/a&gt;（本来装了arch，大小问题不断被劝退了😜）。基本上这台linux主机要跟着我进入人生下一阶段，作为主力台式机也不打算再折腾了。安装过程中有一些新的学习体会（坑），在这里更新记录一下，希望能帮到有需要的朋友～</summary>
+    
+    
+    
+    <category term="linux" scheme="https://mrswolf.github.io/categories/linux/"/>
+    
+    
+    <category term="manjaro" scheme="https://mrswolf.github.io/tags/manjaro/"/>
+    
+    <category term="linux" scheme="https://mrswolf.github.io/tags/linux/"/>
+    
+  </entry>
+  
+</feed>
