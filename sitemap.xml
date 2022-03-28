@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://mrswolf.github.io/2019/01/06/CSP/</loc>
+    <loc>https://mrswolf.github.io/common-spatial-pattern/</loc>
     
     <lastmod>2022-03-23</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://mrswolf.github.io/2019/05/20/MATLAB%E5%88%86%E5%B8%83%E5%BC%8F%E9%9B%86%E7%BE%A4%E6%90%AD%E5%BB%BA%E8%AE%B0%E5%BD%95/</loc>
+    <loc>https://mrswolf.github.io/my-manjaro-log/</loc>
     
     <lastmod>2022-03-20</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://mrswolf.github.io/2019/05/24/manjaro%E8%B8%A9%E5%9D%91%E8%AE%B0/</loc>
+    <loc>https://mrswolf.github.io/principle-component-analysis/</loc>
     
     <lastmod>2022-03-20</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://mrswolf.github.io/2019/12/11/pca/</loc>
+    <loc>https://mrswolf.github.io/matlab-mdce-log/</loc>
     
     <lastmod>2022-03-20</lastmod>
     
@@ -85,50 +85,50 @@
 
   <url>
     <loc>https://mrswolf.github.io/</loc>
-    <lastmod>2022-03-27</lastmod>
+    <lastmod>2022-03-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://mrswolf.github.io/tags/matlab/</loc>
-    <lastmod>2022-03-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://mrswolf.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2022-03-27</lastmod>
+    <lastmod>2022-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://mrswolf.github.io/tags/%E7%9F%A9%E9%98%B5%E5%88%86%E8%A7%A3/</loc>
-    <lastmod>2022-03-27</lastmod>
+    <lastmod>2022-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://mrswolf.github.io/tags/%E8%84%91-%E6%9C%BA%E6%8E%A5%E5%8F%A3/</loc>
-    <lastmod>2022-03-27</lastmod>
+    <lastmod>2022-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://mrswolf.github.io/tags/manjaro/</loc>
-    <lastmod>2022-03-27</lastmod>
+    <lastmod>2022-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://mrswolf.github.io/tags/linux/</loc>
-    <lastmod>2022-03-27</lastmod>
+    <lastmod>2022-03-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mrswolf.github.io/tags/matlab/</loc>
+    <lastmod>2022-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -136,29 +136,29 @@
 
   
   <url>
-    <loc>https://mrswolf.github.io/categories/%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%A1%E7%AE%97/</loc>
-    <lastmod>2022-03-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://mrswolf.github.io/categories/%E8%84%91-%E6%9C%BA%E6%8E%A5%E5%8F%A3/</loc>
-    <lastmod>2022-03-27</lastmod>
+    <lastmod>2022-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://mrswolf.github.io/categories/linux/</loc>
-    <lastmod>2022-03-27</lastmod>
+    <lastmod>2022-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://mrswolf.github.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2022-03-27</lastmod>
+    <lastmod>2022-03-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mrswolf.github.io/categories/%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%A1%E7%AE%97/</loc>
+    <lastmod>2022-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
