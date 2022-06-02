@@ -4,7 +4,7 @@
   <url>
     <loc>https://mrswolf.github.io/why-not-invert-that-matrix/</loc>
     
-    <lastmod>2022-05-29</lastmod>
+    <lastmod>2022-06-01</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -138,13 +138,6 @@
   </url>
   
   <url>
-    <loc>https://mrswolf.github.io/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2022-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://mrswolf.github.io/tags/manjaro/</loc>
     <lastmod>2022-06-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -153,6 +146,13 @@
   
   <url>
     <loc>https://mrswolf.github.io/tags/linux/</loc>
+    <lastmod>2022-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mrswolf.github.io/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2022-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -175,14 +175,14 @@
   </url>
   
   <url>
-    <loc>https://mrswolf.github.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>https://mrswolf.github.io/categories/linux/</loc>
     <lastmod>2022-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://mrswolf.github.io/categories/linux/</loc>
+    <loc>https://mrswolf.github.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2022-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
