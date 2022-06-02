@@ -6,7 +6,7 @@
   <link href="https://mrswolf.github.io/atom.xml" rel="self"/>
   
   <link href="https://mrswolf.github.io/"/>
-  <updated>2022-03-30T16:00:00.000Z</updated>
+  <updated>2022-05-29T16:00:00.000Z</updated>
   <id>https://mrswolf.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>为什么要少用逆矩阵</title>
+    <link href="https://mrswolf.github.io/why-not-invert-that-matrix/"/>
+    <id>https://mrswolf.github.io/why-not-invert-that-matrix/</id>
+    <published>2022-05-29T16:00:00.000Z</published>
+    <updated>2022-05-29T16:00:00.000Z</updated>
+    
+    
+    <summary type="html">&lt;!-- toc --&gt;
+&lt;p&gt;我经常会在线性代数教材以及论坛讨论中看到不建议使用逆矩阵&lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mi mathvariant=&quot;bold&quot;&gt;A&lt;/mi&gt;&lt;mrow&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;/mrow&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;\mathbf{A}^{-1}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:0.8141em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathbf&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;msupsub&quot;&gt;&lt;span class=&quot;vlist-t&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.8141em;&quot;&gt;&lt;span style=&quot;top:-3.063em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:2.7em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;sizing reset-size6 size3 mtight&quot;&gt;&lt;span class=&quot;mord mtight&quot;&gt;&lt;span class=&quot;mord mtight&quot;&gt;−&lt;/span&gt;&lt;span class=&quot;mord mtight&quot;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;来求解线性方程&lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi mathvariant=&quot;bold&quot;&gt;A&lt;/mi&gt;&lt;mi mathvariant=&quot;bold&quot;&gt;x&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mi mathvariant=&quot;bold&quot;&gt;b&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;\mathbf{A}\mathbf{x}=\mathbf{b}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:0.6861em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord mathbf&quot;&gt;Ax&lt;/span&gt;&lt;span class=&quot;mspace&quot; style=&quot;margin-right:0.2778em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mrel&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mspace&quot; style=&quot;margin-right:0.2778em;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:0.6944em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord mathbf&quot;&gt;b&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;，尽管我一直遵循这样的原则（实践中逆矩阵确实不够稳定），但仍然不明白不使用逆矩阵的理由。本文总结了我在网上看到的一些关于逆矩阵的讨论，希望能解释为什么要少用逆矩阵来求解线性方程。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="机器学习" scheme="https://mrswolf.github.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="机器学习" scheme="https://mrswolf.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="矩阵分解" scheme="https://mrswolf.github.io/tags/%E7%9F%A9%E9%98%B5%E5%88%86%E8%A7%A3/"/>
+    
+  </entry>
   
   <entry>
     <title>矩阵微积分</title>
