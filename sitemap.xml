@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mrswolf.github.io/psychopy-window/</loc>
+    
+    <lastmod>2022-06-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mrswolf.github.io/psychopy-event/</loc>
+    
+    <lastmod>2022-06-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mrswolf.github.io/psychopy-coordinate/</loc>
+    
+    <lastmod>2022-06-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mrswolf.github.io/psychopy-install/</loc>
+    
+    <lastmod>2022-06-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://mrswolf.github.io/categories/index.html</loc>
     
     <lastmod>2022-06-04</lastmod>
@@ -100,6 +136,15 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://mrswolf.github.io/blog-test/</loc>
+    
+    <lastmod>2018-11-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   <url>
     <loc>https://mrswolf.github.io/</loc>
@@ -158,6 +203,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://mrswolf.github.io/tags/psychopy/</loc>
+    <lastmod>2022-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -183,6 +235,13 @@
   
   <url>
     <loc>https://mrswolf.github.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2022-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mrswolf.github.io/categories/psychopy%E7%B3%BB%E5%88%97/</loc>
     <lastmod>2022-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

@@ -128,6 +128,27 @@
   </entry>
   
   <entry>
+    <title>Psychopy事件响应</title>
+    <link href="https://mrswolf.github.io/psychopy-event/"/>
+    <id>https://mrswolf.github.io/psychopy-event/</id>
+    <published>2019-01-08T09:01:30.000Z</published>
+    <updated>2022-06-04T06:56:24.000Z</updated>
+    
+    
+    <summary type="html">&lt;!-- toc --&gt;
+&lt;h2 id=&quot;Psychopy事件响应&quot;&gt;Psychopy事件响应&lt;/h2&gt;
+&lt;p&gt;Psychopy提供了很多IO交互方式，当然，最根本的还是键盘和鼠标。本节介绍Psychopy鼠标和键盘的编程技巧。</summary>
+    
+    
+    
+    <category term="psychopy系列" scheme="https://mrswolf.github.io/categories/psychopy%E7%B3%BB%E5%88%97/"/>
+    
+    
+    <category term="psychopy" scheme="https://mrswolf.github.io/tags/psychopy/"/>
+    
+  </entry>
+  
+  <entry>
     <title>共空间模式CSP</title>
     <link href="https://mrswolf.github.io/common-spatial-pattern/"/>
     <id>https://mrswolf.github.io/common-spatial-pattern/</id>
@@ -148,6 +169,88 @@
     <category term="矩阵分解" scheme="https://mrswolf.github.io/tags/%E7%9F%A9%E9%98%B5%E5%88%86%E8%A7%A3/"/>
     
     <category term="脑-机接口" scheme="https://mrswolf.github.io/tags/%E8%84%91-%E6%9C%BA%E6%8E%A5%E5%8F%A3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何在Psychopy中新建窗口</title>
+    <link href="https://mrswolf.github.io/psychopy-window/"/>
+    <id>https://mrswolf.github.io/psychopy-window/</id>
+    <published>2018-11-16T13:15:22.000Z</published>
+    <updated>2022-06-04T06:59:14.000Z</updated>
+    
+    
+    <summary type="html">&lt;!-- toc --&gt;
+&lt;h2 id=&quot;新建单窗口&quot;&gt;新建单窗口&lt;/h2&gt;
+&lt;p&gt;窗口(windows)是刺激呈现的舞台，任何刺激对象都需要指定其所属的窗口对象。</summary>
+    
+    
+    
+    <category term="psychopy系列" scheme="https://mrswolf.github.io/categories/psychopy%E7%B3%BB%E5%88%97/"/>
+    
+    
+    <category term="psychopy" scheme="https://mrswolf.github.io/tags/psychopy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Psychopy坐标系统与显示器设置</title>
+    <link href="https://mrswolf.github.io/psychopy-coordinate/"/>
+    <id>https://mrswolf.github.io/psychopy-coordinate/</id>
+    <published>2018-11-11T13:20:16.000Z</published>
+    <updated>2022-06-04T06:49:00.000Z</updated>
+    
+    
+    <summary type="html">&lt;!-- toc --&gt;
+&lt;h2 id=&quot;Psychopy的坐标系统&quot;&gt;Psychopy的坐标系统&lt;/h2&gt;
+&lt;p&gt;Psychopy提供了5种不同的坐标单位(unit)，使用者只需提供刺激对应的坐标单位，Psychopy会自动计算刺激所对应的像素点范围。这种多坐标单位的好处在于，能够开发和设备无关的刺激呈现，不需要每次实验都对刺激的大小和呈现位置进行调整。其劣势则是需要精心挑选刺激对应的坐标单位，有时还要在不同单位间进行转换，一不小心就容易出错。</summary>
+    
+    
+    
+    <category term="psychopy系列" scheme="https://mrswolf.github.io/categories/psychopy%E7%B3%BB%E5%88%97/"/>
+    
+    
+    <category term="psychopy" scheme="https://mrswolf.github.io/tags/psychopy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客测试</title>
+    <link href="https://mrswolf.github.io/blog-test/"/>
+    <id>https://mrswolf.github.io/blog-test/</id>
+    <published>2018-11-09T13:03:15.000Z</published>
+    <updated>2018-11-09T13:03:15.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;swolf的博客开通啦！本博客记录我在学习过程中的心得体会。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Psychopy安装和使用</title>
+    <link href="https://mrswolf.github.io/psychopy-install/"/>
+    <id>https://mrswolf.github.io/psychopy-install/</id>
+    <published>2018-11-09T13:03:15.000Z</published>
+    <updated>2022-06-04T06:49:00.000Z</updated>
+    
+    
+    <summary type="html">&lt;!-- toc --&gt;
+&lt;h2 id=&quot;什么是Psychopy&quot;&gt;什么是Psychopy&lt;/h2&gt;
+&lt;p&gt;Psychopy是基于Python的心理学实验设计软件，由英国诺丁汉大学的Jon Peirce主持开发。Psychopy结合了OpenGL的图形优势和Python的语法特性，给科学家们提供了快速构建高性能的图形刺激界面的工具。</summary>
+    
+    
+    
+    <category term="psychopy系列" scheme="https://mrswolf.github.io/categories/psychopy%E7%B3%BB%E5%88%97/"/>
+    
+    
+    <category term="psychopy" scheme="https://mrswolf.github.io/tags/psychopy/"/>
     
   </entry>
   

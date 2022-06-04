@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://mrswolf.github.io/psychopy-window/</loc>
+    <lastmod>2022-06-04</lastmod>
+  </url>
+  <url>
+    <loc>https://mrswolf.github.io/psychopy-event/</loc>
+    <lastmod>2022-06-04</lastmod>
+  </url>
+  <url>
+    <loc>https://mrswolf.github.io/psychopy-coordinate/</loc>
+    <lastmod>2022-06-04</lastmod>
+  </url>
+  <url>
+    <loc>https://mrswolf.github.io/psychopy-install/</loc>
+    <lastmod>2022-06-04</lastmod>
+  </url>
+  <url>
     <loc>https://mrswolf.github.io/why-not-invert-that-matrix/</loc>
     <lastmod>2022-06-01</lastmod>
   </url>
@@ -23,5 +39,9 @@
   <url>
     <loc>https://mrswolf.github.io/principle-component-analysis/</loc>
     <lastmod>2022-03-20</lastmod>
+  </url>
+  <url>
+    <loc>https://mrswolf.github.io/blog-test/</loc>
+    <lastmod>2018-11-09</lastmod>
   </url>
 </urlset> 
