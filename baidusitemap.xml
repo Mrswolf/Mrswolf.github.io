@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://mrswolf.github.io/learn-makefile/</loc>
+    <lastmod>2022-06-07</lastmod>
+  </url>
+  <url>
     <loc>https://mrswolf.github.io/psychopy-window/</loc>
     <lastmod>2022-06-04</lastmod>
   </url>
@@ -33,11 +37,11 @@
     <lastmod>2022-03-20</lastmod>
   </url>
   <url>
-    <loc>https://mrswolf.github.io/my-manjaro-log/</loc>
+    <loc>https://mrswolf.github.io/principle-component-analysis/</loc>
     <lastmod>2022-03-20</lastmod>
   </url>
   <url>
-    <loc>https://mrswolf.github.io/principle-component-analysis/</loc>
+    <loc>https://mrswolf.github.io/my-manjaro-log/</loc>
     <lastmod>2022-03-20</lastmod>
   </url>
   <url>
