@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mrswolf.github.io/sitemap.xml
