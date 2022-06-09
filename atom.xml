@@ -6,7 +6,7 @@
   <link href="https://mrswolf.github.io/atom.xml" rel="self"/>
   
   <link href="https://mrswolf.github.io/"/>
-  <updated>2022-06-07T15:46:20.938Z</updated>
+  <updated>2022-06-08T14:01:42.072Z</updated>
   <id>https://mrswolf.github.io/</id>
   
   <author>
@@ -21,11 +21,11 @@
     <link href="https://mrswolf.github.io/learn-makefile/"/>
     <id>https://mrswolf.github.io/learn-makefile/</id>
     <published>2022-06-06T16:00:00.000Z</published>
-    <updated>2022-06-07T15:46:20.938Z</updated>
+    <updated>2022-06-08T14:01:42.072Z</updated>
     
     
     <summary type="html">&lt;!-- toc --&gt;
-&lt;p&gt;出于工作需要，我要开始系统学习c++了。目前我的主力台式机是Linux系统，最常用的编辑器是VS Code，所以想要得到一个比较完整的C/C++工程方案，似乎学习Makefile的相关规则是必不可少的。本文的内容主要源于&lt;a href=&quot;https://makefiletutorial.com/&quot;&gt;makefile tutorial by example&lt;/a&gt;（感谢作者大大）。</summary>
+&lt;p&gt;出于工作需要，我要开始系统学习c++了。目前我的主力台式机是Linux系统，最常用的编辑器是VS Code，所以想要得到一个比较完整的C/C++工程方案，似乎学习Makefile的相关规则是必不可少的。</summary>
     
     
     
