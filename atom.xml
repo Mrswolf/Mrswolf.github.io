@@ -6,7 +6,7 @@
   <link href="https://mrswolf.github.io/atom.xml" rel="self"/>
   
   <link href="https://mrswolf.github.io/"/>
-  <updated>2023-05-16T14:06:35.300Z</updated>
+  <updated>2023-06-04T06:56:19.323Z</updated>
   <id>https://mrswolf.github.io/</id>
   
   <author>
@@ -21,11 +21,11 @@
     <link href="https://mrswolf.github.io/fourier-transform/"/>
     <id>https://mrswolf.github.io/fourier-transform/</id>
     <published>2023-05-15T16:00:00.000Z</published>
-    <updated>2023-05-16T14:06:35.300Z</updated>
+    <updated>2023-06-04T06:56:19.323Z</updated>
     
     
     <summary type="html">&lt;!-- toc --&gt;
-&lt;p&gt;Fourier transform decomposes functions into frequency components, which are represented as a function of frequency.</summary>
+&lt;p&gt;The Fourier transform decomposes a function into different frequency components, which can be summed to represent the original function.</summary>
     
     
     
