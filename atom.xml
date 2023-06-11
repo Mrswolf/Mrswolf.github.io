@@ -6,7 +6,7 @@
   <link href="https://mrswolf.github.io/atom.xml" rel="self"/>
   
   <link href="https://mrswolf.github.io/"/>
-  <updated>2023-06-04T06:56:19.323Z</updated>
+  <updated>2023-06-11T12:36:18.572Z</updated>
   <id>https://mrswolf.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Scientific Computing in VS Code</title>
+    <link href="https://mrswolf.github.io/vscode-python/"/>
+    <id>https://mrswolf.github.io/vscode-python/</id>
+    <published>2023-06-11T12:23:45.000Z</published>
+    <updated>2023-06-11T12:36:18.572Z</updated>
+    
+    
+    <summary type="html">&lt;!-- toc --&gt;
+&lt;p&gt;I used to do all scientific computing work on Jupyter notebooks. My most common way of debugging was print, which is definitely not the best way to do so.</summary>
+    
+    
+    
+    <category term="tools" scheme="https://mrswolf.github.io/categories/tools/"/>
+    
+    
+    <category term="vscode" scheme="https://mrswolf.github.io/tags/vscode/"/>
+    
+    <category term="python" scheme="https://mrswolf.github.io/tags/python/"/>
+    
+    <category term="jupyter" scheme="https://mrswolf.github.io/tags/jupyter/"/>
+    
+  </entry>
   
   <entry>
     <title>Fourier Transform</title>

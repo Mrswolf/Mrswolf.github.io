@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://mrswolf.github.io/vscode-python/</loc>
+    <lastmod>2023-06-11</lastmod>
+  </url>
+  <url>
     <loc>https://mrswolf.github.io/fourier-transform/</loc>
     <lastmod>2023-06-04</lastmod>
   </url>
