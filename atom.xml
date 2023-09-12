@@ -6,7 +6,7 @@
   <link href="https://mrswolf.github.io/atom.xml" rel="self"/>
   
   <link href="https://mrswolf.github.io/"/>
-  <updated>2023-09-12T15:39:40.984Z</updated>
+  <updated>2023-09-12T16:48:06.610Z</updated>
   <id>https://mrswolf.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://mrswolf.github.io/rpca/"/>
     <id>https://mrswolf.github.io/rpca/</id>
     <published>2023-09-12T15:30:49.000Z</published>
-    <updated>2023-09-12T15:39:40.984Z</updated>
+    <updated>2023-09-12T16:48:06.610Z</updated>
     
     
       
@@ -274,7 +274,7 @@
     
     
     <summary type="html">&lt;!-- toc --&gt;
-&lt;h2 id=&quot;新建单窗口-2&quot;&gt;新建单窗口&lt;/h2&gt;
+&lt;h2 id=&quot;新建单窗口&quot;&gt;新建单窗口&lt;/h2&gt;
 &lt;p&gt;窗口(windows)是刺激呈现的舞台，任何刺激对象都需要指定其所属的窗口对象。</summary>
     
     
