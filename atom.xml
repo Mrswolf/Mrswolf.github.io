@@ -6,7 +6,7 @@
   <link href="https://mrswolf.github.io/atom.xml" rel="self"/>
   
   <link href="https://mrswolf.github.io/"/>
-  <updated>2023-06-11T12:40:14.012Z</updated>
+  <updated>2023-09-12T15:39:40.984Z</updated>
   <id>https://mrswolf.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Robust Principle Component Analysis</title>
+    <link href="https://mrswolf.github.io/rpca/"/>
+    <id>https://mrswolf.github.io/rpca/</id>
+    <published>2023-09-12T15:30:49.000Z</published>
+    <updated>2023-09-12T15:39:40.984Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;!-- toc --&gt;
+&lt;h1&gt;How does RPCA work?&lt;/h1&gt;
+&lt;h2 id=&quot;Background-of-PCA&quot;&gt;Background of PCA&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Principle component analysis (PCA)&lt;/s</summary>
+      
+    
+    
+    
+    <category term="machine learning" scheme="https://mrswolf.github.io/categories/machine-learning/"/>
+    
+    
+    <category term="machine learning" scheme="https://mrswolf.github.io/tags/machine-learning/"/>
+    
+    <category term="matrix decomposition" scheme="https://mrswolf.github.io/tags/matrix-decomposition/"/>
+    
+  </entry>
   
   <entry>
     <title>Scientific Computing in VS Code</title>
@@ -45,7 +72,7 @@
     <link href="https://mrswolf.github.io/fourier-transform/"/>
     <id>https://mrswolf.github.io/fourier-transform/</id>
     <published>2023-05-15T16:00:00.000Z</published>
-    <updated>2023-06-04T06:56:19.323Z</updated>
+    <updated>2023-09-12T15:45:56.083Z</updated>
     
     
     <summary type="html">&lt;!-- toc --&gt;
@@ -53,12 +80,12 @@
     
     
     
-    <category term="信号处理" scheme="https://mrswolf.github.io/categories/%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86/"/>
+    <category term="signal processing" scheme="https://mrswolf.github.io/categories/signal-processing/"/>
     
     
-    <category term="机器学习" scheme="https://mrswolf.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    <category term="machine learning" scheme="https://mrswolf.github.io/tags/machine-learning/"/>
     
-    <category term="信号处理" scheme="https://mrswolf.github.io/tags/%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86/"/>
+    <category term="signal processing" scheme="https://mrswolf.github.io/tags/signal-processing/"/>
     
   </entry>
   
@@ -67,7 +94,7 @@
     <link href="https://mrswolf.github.io/learn-makefile/"/>
     <id>https://mrswolf.github.io/learn-makefile/</id>
     <published>2022-06-06T16:00:00.000Z</published>
-    <updated>2022-06-08T14:01:42.072Z</updated>
+    <updated>2023-09-12T15:45:36.009Z</updated>
     
     
     <summary type="html">&lt;!-- toc --&gt;
@@ -75,7 +102,7 @@
     
     
     
-    <category term="编程语言" scheme="https://mrswolf.github.io/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
+    <category term="program" scheme="https://mrswolf.github.io/categories/program/"/>
     
     
     <category term="c++" scheme="https://mrswolf.github.io/tags/c/"/>
@@ -97,12 +124,12 @@
     
     
     
-    <category term="机器学习" scheme="https://mrswolf.github.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    <category term="machine learning" scheme="https://mrswolf.github.io/categories/machine-learning/"/>
     
     
-    <category term="机器学习" scheme="https://mrswolf.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    <category term="machine learning" scheme="https://mrswolf.github.io/tags/machine-learning/"/>
     
-    <category term="矩阵分解" scheme="https://mrswolf.github.io/tags/%E7%9F%A9%E9%98%B5%E5%88%86%E8%A7%A3/"/>
+    <category term="matrix decomposition" scheme="https://mrswolf.github.io/tags/matrix-decomposition/"/>
     
   </entry>
   
@@ -119,14 +146,14 @@
     
     
     
-    <category term="机器学习" scheme="https://mrswolf.github.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    <category term="machine learning" scheme="https://mrswolf.github.io/categories/machine-learning/"/>
     
     
-    <category term="机器学习" scheme="https://mrswolf.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    <category term="machine learning" scheme="https://mrswolf.github.io/tags/machine-learning/"/>
     
-    <category term="矩阵分解" scheme="https://mrswolf.github.io/tags/%E7%9F%A9%E9%98%B5%E5%88%86%E8%A7%A3/"/>
+    <category term="matrix decomposition" scheme="https://mrswolf.github.io/tags/matrix-decomposition/"/>
     
-    <category term="深度学习" scheme="https://mrswolf.github.io/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    <category term="deep learning" scheme="https://mrswolf.github.io/tags/deep-learning/"/>
     
   </entry>
   
@@ -143,12 +170,12 @@
     
     
     
-    <category term="机器学习" scheme="https://mrswolf.github.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    <category term="machine learning" scheme="https://mrswolf.github.io/categories/machine-learning/"/>
     
     
-    <category term="机器学习" scheme="https://mrswolf.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    <category term="machine learning" scheme="https://mrswolf.github.io/tags/machine-learning/"/>
     
-    <category term="矩阵分解" scheme="https://mrswolf.github.io/tags/%E7%9F%A9%E9%98%B5%E5%88%86%E8%A7%A3/"/>
+    <category term="matrix decomposition" scheme="https://mrswolf.github.io/tags/matrix-decomposition/"/>
     
   </entry>
   
@@ -186,7 +213,7 @@
     
     
     
-    <category term="分布式计算" scheme="https://mrswolf.github.io/categories/%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%A1%E7%AE%97/"/>
+    <category term="distributed computing" scheme="https://mrswolf.github.io/categories/distributed-computing/"/>
     
     
     <category term="matlab" scheme="https://mrswolf.github.io/tags/matlab/"/>
@@ -227,14 +254,14 @@
     
     
     
-    <category term="脑-机接口" scheme="https://mrswolf.github.io/categories/%E8%84%91-%E6%9C%BA%E6%8E%A5%E5%8F%A3/"/>
+    <category term="brain-computer interface" scheme="https://mrswolf.github.io/categories/brain-computer-interface/"/>
     
     
-    <category term="机器学习" scheme="https://mrswolf.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    <category term="machine learning" scheme="https://mrswolf.github.io/tags/machine-learning/"/>
     
-    <category term="矩阵分解" scheme="https://mrswolf.github.io/tags/%E7%9F%A9%E9%98%B5%E5%88%86%E8%A7%A3/"/>
+    <category term="matrix decomposition" scheme="https://mrswolf.github.io/tags/matrix-decomposition/"/>
     
-    <category term="脑-机接口" scheme="https://mrswolf.github.io/tags/%E8%84%91-%E6%9C%BA%E6%8E%A5%E5%8F%A3/"/>
+    <category term="brain-computer interface" scheme="https://mrswolf.github.io/tags/brain-computer-interface/"/>
     
   </entry>
   
@@ -247,7 +274,7 @@
     
     
     <summary type="html">&lt;!-- toc --&gt;
-&lt;h2 id=&quot;新建单窗口&quot;&gt;新建单窗口&lt;/h2&gt;
+&lt;h2 id=&quot;新建单窗口-2&quot;&gt;新建单窗口&lt;/h2&gt;
 &lt;p&gt;窗口(windows)是刺激呈现的舞台，任何刺激对象都需要指定其所属的窗口对象。</summary>
     
     
