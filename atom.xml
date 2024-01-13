@@ -6,7 +6,7 @@
   <link href="https://mrswolf.github.io/atom.xml" rel="self"/>
   
   <link href="https://mrswolf.github.io/"/>
-  <updated>2024-01-11T12:31:00.494Z</updated>
+  <updated>2024-01-12T16:00:00.000Z</updated>
   <id>https://mrswolf.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Build Modern C++ Projects in VSCode</title>
+    <link href="https://mrswolf.github.io/vscode-cpp/"/>
+    <id>https://mrswolf.github.io/vscode-cpp/</id>
+    <published>2024-01-11T12:43:30.000Z</published>
+    <updated>2024-01-12T16:00:00.000Z</updated>
+    
+    
+    <summary type="html">&lt;!-- toc --&gt;
+&lt;p&gt;I use Visual Studio when I work at the company. Visual Studio does provide a better coding experience on the Windows platform. But honestly, the majority of the coding at the company is just bug fixing, which is less enjoyable.</summary>
+    
+    
+    
+    <category term="tools" scheme="https://mrswolf.github.io/categories/tools/"/>
+    
+    
+    <category term="c++" scheme="https://mrswolf.github.io/tags/c/"/>
+    
+    <category term="vscode" scheme="https://mrswolf.github.io/tags/vscode/"/>
+    
+  </entry>
   
   <entry>
     <title>Robust Principle Component Analysis</title>
