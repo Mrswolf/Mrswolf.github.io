@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://mrswolf.github.io/circshift/</loc>
+    <lastmod>2024-04-02</lastmod>
+  </url>
+  <url>
+    <loc>https://mrswolf.github.io/fourier-transform/</loc>
+    <lastmod>2024-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://mrswolf.github.io/learn-makefile/</loc>
+    <lastmod>2024-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://mrswolf.github.io/rpca/</loc>
+    <lastmod>2024-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://mrswolf.github.io/pinv-tol/</loc>
     <lastmod>2024-02-02</lastmod>
   </url>
@@ -13,20 +29,8 @@
     <lastmod>2024-01-12</lastmod>
   </url>
   <url>
-    <loc>https://mrswolf.github.io/rpca/</loc>
-    <lastmod>2024-01-11</lastmod>
-  </url>
-  <url>
     <loc>https://mrswolf.github.io/vscode-python/</loc>
     <lastmod>2023-09-19</lastmod>
-  </url>
-  <url>
-    <loc>https://mrswolf.github.io/fourier-transform/</loc>
-    <lastmod>2023-09-12</lastmod>
-  </url>
-  <url>
-    <loc>https://mrswolf.github.io/learn-makefile/</loc>
-    <lastmod>2023-09-12</lastmod>
   </url>
   <url>
     <loc>https://mrswolf.github.io/psychopy-window/</loc>
