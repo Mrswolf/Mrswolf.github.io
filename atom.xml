@@ -6,7 +6,7 @@
   <link href="https://mrswolf.github.io/atom.xml" rel="self"/>
   
   <link href="https://mrswolf.github.io/"/>
-  <updated>2024-04-02T16:00:00.000Z</updated>
+  <updated>2024-04-12T16:00:00.000Z</updated>
   <id>https://mrswolf.github.io/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Preconditioned Conjugate Gradient Method</title>
+    <link href="https://mrswolf.github.io/pcg/"/>
+    <id>https://mrswolf.github.io/pcg/</id>
+    <published>2024-04-05T16:00:00.000Z</published>
+    <updated>2024-04-12T16:00:00.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;This weekend I learned &lt;strong&gt;Preconditioned Conjugate Gradient&lt;/strong&gt; method with Jonathan Richard Schewchuk’s lecture note &lt;a href=&quot;https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf&quot;&gt;“An Introduction to the Conjugate Gradient Method Without the Agonizing Path”&lt;/a&gt;. Here I document what I have learned from the note.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="machine learning" scheme="https://mrswolf.github.io/categories/machine-learning/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>In-place Circshift</title>

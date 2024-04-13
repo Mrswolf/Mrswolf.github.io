@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://mrswolf.github.io/pcg/</loc>
+    <lastmod>2024-04-12</lastmod>
+  </url>
+  <url>
     <loc>https://mrswolf.github.io/circshift/</loc>
     <lastmod>2024-04-02</lastmod>
   </url>
