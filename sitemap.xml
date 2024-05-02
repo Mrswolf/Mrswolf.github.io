@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mrswolf.github.io/tensor-tricks/</loc>
+    
+    <lastmod>2024-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://mrswolf.github.io/pcg/</loc>
     
     <lastmod>2024-04-12</lastmod>
@@ -238,7 +247,7 @@
 
   <url>
     <loc>https://mrswolf.github.io/</loc>
-    <lastmod>2024-04-13</lastmod>
+    <lastmod>2024-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

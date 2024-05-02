@@ -6,7 +6,7 @@
   <link href="https://mrswolf.github.io/atom.xml" rel="self"/>
   
   <link href="https://mrswolf.github.io/"/>
-  <updated>2024-04-12T16:00:00.000Z</updated>
+  <updated>2024-05-02T18:19:42.469Z</updated>
   <id>https://mrswolf.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Tensor Decompositions</title>
+    <link href="https://mrswolf.github.io/tensor-tricks/"/>
+    <id>https://mrswolf.github.io/tensor-tricks/</id>
+    <published>2024-05-03T15:30:49.000Z</published>
+    <updated>2024-05-02T18:19:42.469Z</updated>
+    
+    
+    <summary type="html">&lt;!-- toc --&gt;
+&lt;p&gt;This post contains some userful tensor notation and tricks which I have seen and collected.</summary>
+    
+    
+    
+    <category term="machine learning" scheme="https://mrswolf.github.io/categories/machine-learning/"/>
+    
+    
+    <category term="machine learning" scheme="https://mrswolf.github.io/tags/machine-learning/"/>
+    
+    <category term="matrix decomposition" scheme="https://mrswolf.github.io/tags/matrix-decomposition/"/>
+    
+  </entry>
   
   <entry>
     <title>Preconditioned Conjugate Gradient Method</title>
@@ -368,25 +390,6 @@
       
     
     
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Psychopy安装和使用</title>
-    <link href="https://mrswolf.github.io/psychopy-install/"/>
-    <id>https://mrswolf.github.io/psychopy-install/</id>
-    <published>2018-11-09T13:03:15.000Z</published>
-    <updated>2022-06-04T06:49:00.000Z</updated>
-    
-    
-    <summary type="html">&lt;!-- toc --&gt;
-&lt;h2 id=&quot;什么是Psychopy&quot;&gt;什么是Psychopy&lt;/h2&gt;
-&lt;p&gt;Psychopy是基于Python的心理学实验设计软件，由英国诺丁汉大学的Jon Peirce主持开发。Psychopy结合了OpenGL的图形优势和Python的语法特性，给科学家们提供了快速构建高性能的图形刺激界面的工具。</summary>
-    
-    
-    
-    <category term="psychopy" scheme="https://mrswolf.github.io/categories/psychopy/"/>
     
     
   </entry>
