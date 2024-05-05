@@ -6,7 +6,7 @@
   <link href="https://mrswolf.github.io/atom.xml" rel="self"/>
   
   <link href="https://mrswolf.github.io/"/>
-  <updated>2024-05-02T18:19:42.469Z</updated>
+  <updated>2024-05-04T16:00:00.000Z</updated>
   <id>https://mrswolf.github.io/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Total Variation Denoising Problem</title>
+    <link href="https://mrswolf.github.io/tvdenoise/"/>
+    <id>https://mrswolf.github.io/tvdenoise/</id>
+    <published>2024-05-04T16:00:00.000Z</published>
+    <updated>2024-05-04T16:00:00.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Total variation (TV) denoising&lt;/strong&gt;, also known as TV regularization or TV filtering, is a powerful technique widely used in various fields, including medical imaging, computer vision, etc. It removes noises while preserving most important structural features. &lt;strong&gt;&lt;a href=&quot;https://www.ipam.ucla.edu/news/rudin-osher-fatemi-model-captures-infinity-and-beyond/&quot;&gt;The first image of black hole, captured by Event Horizon Telescope (EHT), was processed and revealed with this technique in 2019&lt;/a&gt;&lt;/strong&gt;.</summary>
+    
+    
+    
+    <category term="machine learning" scheme="https://mrswolf.github.io/categories/machine-learning/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Tensor Decompositions</title>
@@ -371,25 +388,6 @@
     
     
     <category term="psychopy" scheme="https://mrswolf.github.io/categories/psychopy/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>博客测试</title>
-    <link href="https://mrswolf.github.io/blog-test/"/>
-    <id>https://mrswolf.github.io/blog-test/</id>
-    <published>2018-11-09T13:03:15.000Z</published>
-    <updated>2018-11-09T13:03:15.000Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;swolf的博客开通啦！本博客记录我在学习过程中的心得体会。&lt;/p&gt;
-</summary>
-      
-    
-    
     
     
   </entry>
