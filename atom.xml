@@ -6,7 +6,7 @@
   <link href="https://mrswolf.github.io/atom.xml" rel="self"/>
   
   <link href="https://mrswolf.github.io/"/>
-  <updated>2024-05-04T16:00:00.000Z</updated>
+  <updated>2024-05-09T16:00:00.000Z</updated>
   <id>https://mrswolf.github.io/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Powerful Bregman Methods</title>
+    <link href="https://mrswolf.github.io/bregmanmethod/"/>
+    <id>https://mrswolf.github.io/bregmanmethod/</id>
+    <published>2024-05-05T16:00:00.000Z</published>
+    <updated>2024-05-09T16:00:00.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;The Bregman method is an iterative method to solve convex optimization problems with equality constraints.</summary>
+    
+    
+    
+    <category term="machine learning" scheme="https://mrswolf.github.io/categories/machine-learning/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Total Variation Denoising Problem</title>
@@ -365,25 +382,6 @@
     <summary type="html">&lt;!-- toc --&gt;
 &lt;h2 id=&quot;新建单窗口&quot;&gt;新建单窗口&lt;/h2&gt;
 &lt;p&gt;窗口(windows)是刺激呈现的舞台，任何刺激对象都需要指定其所属的窗口对象。</summary>
-    
-    
-    
-    <category term="psychopy" scheme="https://mrswolf.github.io/categories/psychopy/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Psychopy坐标系统与显示器设置</title>
-    <link href="https://mrswolf.github.io/psychopy-coordinate/"/>
-    <id>https://mrswolf.github.io/psychopy-coordinate/</id>
-    <published>2018-11-11T13:20:16.000Z</published>
-    <updated>2022-06-04T06:49:00.000Z</updated>
-    
-    
-    <summary type="html">&lt;!-- toc --&gt;
-&lt;h2 id=&quot;Psychopy的坐标系统&quot;&gt;Psychopy的坐标系统&lt;/h2&gt;
-&lt;p&gt;Psychopy提供了5种不同的坐标单位(unit)，使用者只需提供刺激对应的坐标单位，Psychopy会自动计算刺激所对应的像素点范围。这种多坐标单位的好处在于，能够开发和设备无关的刺激呈现，不需要每次实验都对刺激的大小和呈现位置进行调整。其劣势则是需要精心挑选刺激对应的坐标单位，有时还要在不同单位间进行转换，一不小心就容易出错。</summary>
     
     
     
