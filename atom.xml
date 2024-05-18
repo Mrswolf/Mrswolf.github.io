@@ -6,7 +6,7 @@
   <link href="https://mrswolf.github.io/atom.xml" rel="self"/>
   
   <link href="https://mrswolf.github.io/"/>
-  <updated>2024-05-09T16:00:00.000Z</updated>
+  <updated>2024-05-17T16:00:00.000Z</updated>
   <id>https://mrswolf.github.io/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>cuda编程-基本概念</title>
+    <link href="https://mrswolf.github.io/learncuda0/"/>
+    <id>https://mrswolf.github.io/learncuda0/</id>
+    <published>2024-05-17T16:00:00.000Z</published>
+    <updated>2024-05-17T16:00:00.000Z</updated>
+    
+    
+    <summary type="html">&lt;!-- toc --&gt;
+&lt;p&gt;当今科学计算越来越复杂，各种模型越来越大，使用SVM做分类的时代早已一去不复返，通过GPU加速应用的重要性不言而喻。我在MRI领域工作的这几年，经常碰高度复杂的MRI应用，Matlab计算时间在几小时到几天不等，即使高度优化的C++的程序也需要10至30分钟左右。这些应用的CPU利用率已然接近100%，因此通过GPU进一步优化程序成为最可行的手段。</summary>
+    
+    
+    
+    <category term="cuda" scheme="https://mrswolf.github.io/categories/cuda/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Powerful Bregman Methods</title>
@@ -102,9 +120,7 @@
     
     
     
-    <category term="c++" scheme="https://mrswolf.github.io/categories/c/"/>
-    
-    <category term="algorithms" scheme="https://mrswolf.github.io/categories/c/algorithms/"/>
+    <category term="algorithms" scheme="https://mrswolf.github.io/categories/algorithms/"/>
     
     
   </entry>
@@ -140,7 +156,7 @@
     
     
     
-    <category term="cpp" scheme="https://mrswolf.github.io/categories/cpp/"/>
+    <category term="c++" scheme="https://mrswolf.github.io/categories/c/"/>
     
     
   </entry>
@@ -226,7 +242,7 @@
     <link href="https://mrswolf.github.io/learn-makefile/"/>
     <id>https://mrswolf.github.io/learn-makefile/</id>
     <published>2022-06-06T16:00:00.000Z</published>
-    <updated>2024-03-25T12:23:41.266Z</updated>
+    <updated>2024-05-18T16:16:11.397Z</updated>
     
     
     <summary type="html">&lt;!-- toc --&gt;
@@ -235,8 +251,6 @@
     
     
     <category term="c++" scheme="https://mrswolf.github.io/categories/c/"/>
-    
-    <category term="tools" scheme="https://mrswolf.github.io/categories/c/tools/"/>
     
     
   </entry>
@@ -367,25 +381,6 @@
     <category term="machine learning" scheme="https://mrswolf.github.io/categories/machine-learning/"/>
     
     <category term="brain-computer interface" scheme="https://mrswolf.github.io/categories/machine-learning/brain-computer-interface/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>如何在Psychopy中新建窗口</title>
-    <link href="https://mrswolf.github.io/psychopy-window/"/>
-    <id>https://mrswolf.github.io/psychopy-window/</id>
-    <published>2018-11-16T13:15:22.000Z</published>
-    <updated>2022-06-04T06:59:14.000Z</updated>
-    
-    
-    <summary type="html">&lt;!-- toc --&gt;
-&lt;h2 id=&quot;新建单窗口&quot;&gt;新建单窗口&lt;/h2&gt;
-&lt;p&gt;窗口(windows)是刺激呈现的舞台，任何刺激对象都需要指定其所属的窗口对象。</summary>
-    
-    
-    
-    <category term="psychopy" scheme="https://mrswolf.github.io/categories/psychopy/"/>
     
     
   </entry>
