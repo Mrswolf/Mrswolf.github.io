@@ -6,7 +6,7 @@
   <link href="https://mrswolf.github.io/atom.xml" rel="self"/>
   
   <link href="https://mrswolf.github.io/"/>
-  <updated>2024-05-17T16:00:00.000Z</updated>
+  <updated>2024-06-23T16:00:00.000Z</updated>
   <id>https://mrswolf.github.io/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CMake Cheatsheet</title>
+    <link href="https://mrswolf.github.io/learncmake/"/>
+    <id>https://mrswolf.github.io/learncmake/</id>
+    <published>2024-05-22T16:00:00.000Z</published>
+    <updated>2024-06-23T16:00:00.000Z</updated>
+    
+    
+    <summary type="html">&lt;!-- toc --&gt;
+&lt;p&gt;CMake is a popular cross-platform build system that allows developers to use a common interface to define a set of rules to build the source code with different compilers, such as GCC, Clang and Visual Studio. In fact, CMake supports not only C/C++, but also other languages such as C# and Fortran. CMake is an essential tool for building software projects and making the whole process easier for anyone.</summary>
+    
+    
+    
+    <category term="c++" scheme="https://mrswolf.github.io/categories/c/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>cuda编程-基本概念</title>
@@ -361,26 +379,6 @@
     
     
     <category term="psychopy" scheme="https://mrswolf.github.io/categories/psychopy/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>共空间模式CSP</title>
-    <link href="https://mrswolf.github.io/common-spatial-pattern/"/>
-    <id>https://mrswolf.github.io/common-spatial-pattern/</id>
-    <published>2019-01-05T16:00:00.000Z</published>
-    <updated>2022-03-23T16:00:00.000Z</updated>
-    
-    
-    <summary type="html">&lt;!-- toc --&gt;
-&lt;p&gt;共空间模式（common spatial pattern，CSP）是脑-机接口领域常用的一类空间滤波算法，尤其在运动想象范式分类上具有较好的效果，是运动想象范式的基准算法之一。</summary>
-    
-    
-    
-    <category term="machine learning" scheme="https://mrswolf.github.io/categories/machine-learning/"/>
-    
-    <category term="brain-computer interface" scheme="https://mrswolf.github.io/categories/machine-learning/brain-computer-interface/"/>
     
     
   </entry>
