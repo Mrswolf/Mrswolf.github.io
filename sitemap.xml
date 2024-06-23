@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>https://mrswolf.github.io/learncuda1/</loc>
+    
+    <lastmod>2024-06-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://mrswolf.github.io/learn-makefile/</loc>
     
     <lastmod>2024-05-18</lastmod>
@@ -283,7 +292,7 @@
 
   <url>
     <loc>https://mrswolf.github.io/</loc>
-    <lastmod>2024-06-02</lastmod>
+    <lastmod>2024-06-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

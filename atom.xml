@@ -6,7 +6,7 @@
   <link href="https://mrswolf.github.io/atom.xml" rel="self"/>
   
   <link href="https://mrswolf.github.io/"/>
-  <updated>2024-06-23T16:00:00.000Z</updated>
+  <updated>2024-06-22T16:00:00.000Z</updated>
   <id>https://mrswolf.github.io/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>cuda编程-矩阵乘法优化</title>
+    <link href="https://mrswolf.github.io/learncuda1/"/>
+    <id>https://mrswolf.github.io/learncuda1/</id>
+    <published>2024-05-28T16:00:00.000Z</published>
+    <updated>2024-06-22T16:00:00.000Z</updated>
+    
+    
+    <summary type="html">&lt;!-- toc --&gt;
+&lt;p&gt;上一篇blog实现了一个基本的cuda程序，本篇记录如何实现矩阵乘法并加速。</summary>
+    
+    
+    
+    <category term="cuda" scheme="https://mrswolf.github.io/categories/cuda/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>CMake Cheatsheet</title>
@@ -360,25 +378,6 @@
     
     
     <category term="matlab" scheme="https://mrswolf.github.io/categories/matlab/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Psychopy事件响应</title>
-    <link href="https://mrswolf.github.io/psychopy-event/"/>
-    <id>https://mrswolf.github.io/psychopy-event/</id>
-    <published>2019-01-08T09:01:30.000Z</published>
-    <updated>2022-06-04T06:56:24.000Z</updated>
-    
-    
-    <summary type="html">&lt;!-- toc --&gt;
-&lt;h2 id=&quot;Psychopy事件响应&quot;&gt;Psychopy事件响应&lt;/h2&gt;
-&lt;p&gt;Psychopy提供了很多IO交互方式，当然，最根本的还是键盘和鼠标。本节介绍Psychopy鼠标和键盘的编程技巧。</summary>
-    
-    
-    
-    <category term="psychopy" scheme="https://mrswolf.github.io/categories/psychopy/"/>
     
     
   </entry>
