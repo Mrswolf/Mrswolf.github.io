@@ -6,7 +6,7 @@
   <link href="https://mrswolf.github.io/atom.xml" rel="self"/>
   
   <link href="https://mrswolf.github.io/"/>
-  <updated>2024-06-22T16:00:00.000Z</updated>
+  <updated>2025-05-10T11:08:22.591Z</updated>
   <id>https://mrswolf.github.io/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Dive into ESPIRiT, from Theory to Practice</title>
+    <link href="https://mrswolf.github.io/espirit/"/>
+    <id>https://mrswolf.github.io/espirit/</id>
+    <published>2025-05-10T10:54:40.000Z</published>
+    <updated>2025-05-10T11:08:22.591Z</updated>
+    
+    
+    <summary type="html">&lt;!-- toc --&gt;
+&lt;p&gt;This post summarizes the &lt;a href=&quot;https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.24751&quot;&gt;ESPIRiT&lt;/a&gt; algorithm for estimating coil sensitivies in MRI. It took me months to fully grasp the theory behind it.</summary>
+    
+    
+    
+    <category term="machine learning" scheme="https://mrswolf.github.io/categories/machine-learning/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>cuda编程-矩阵乘法优化</title>
@@ -359,25 +377,6 @@
     
     
     <category term="linux" scheme="https://mrswolf.github.io/categories/linux/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>MATLAB分布式集群搭建记录</title>
-    <link href="https://mrswolf.github.io/matlab-mdce-log/"/>
-    <id>https://mrswolf.github.io/matlab-mdce-log/</id>
-    <published>2019-05-19T16:00:00.000Z</published>
-    <updated>2022-03-20T16:00:00.000Z</updated>
-    
-    
-    <summary type="html">&lt;!-- toc --&gt;
-&lt;p&gt;&lt;strong&gt;本篇的内容可能过时啦&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;虽然我很久不用MATLAB处理日常工作，但是实验室主流依然是MATLAB（用Python的就那么几个T_T)。以前小伙伴们跑程序都是拷贝程序和数据到实验室的计算服务器上，手工开N个MATLAB窗口做运算。现在实验室规模扩大，这种手工的方式越来越繁琐。我从前用MATLAB时就想试试集群计算，奈何当时实验室没啥硬件条件，正好现在有机会，我干脆搭了个MATLAB集群供小伙伴使用。</summary>
-    
-    
-    
-    <category term="matlab" scheme="https://mrswolf.github.io/categories/matlab/"/>
     
     
   </entry>
