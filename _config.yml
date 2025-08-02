@@ -25,15 +25,18 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: mrswolf.github.io 
 url: "https://mrswolf.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+# twitter_username: jekyllrb
 github_username:  Mrswolf
 
 # Build settings
 theme: minima
+# remote-theme: "jekyll/minima@1fe0fbf"
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 excerpt_separator: <!--more-->
 
@@ -48,6 +51,7 @@ defaults:
 
 sass:
   style: compressed
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
