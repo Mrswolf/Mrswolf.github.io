@@ -8,9 +8,7 @@ tags: [psychopy,]
 ---
 
 <!-- toc -->
-
-## 什么是Psychopy
-Psychopy是基于Python的心理学实验设计软件，由英国诺丁汉大学的Jon Peirce主持开发。Psychopy结合了OpenGL的图形优势和Python的语法特性，给科学家们提供了快速构建高性能的图形刺激界面的工具。<!-- more -->
+Psychopy是基于Python的心理学实验设计软件，由英国诺丁汉大学的Jon Peirce主持开发。Psychopy结合了OpenGL的图形优势和Python的语法特性，给科学家们提供了快速构建高性能的图形刺激界面的工具。<!--more-->
 
 ## 我为什么选择Psychopy
 在我研究生阶段，我做脑机接口实验编写刺激界面的工具主要是Matlab平台的Psychtoolbox。很早之前，我也用过e-Prime，但很快就放弃了。e-Prime提供GUI界面，简单易学，但是无法设计复杂的刺激界面。相比之下，Psychtoolbox能够实现大多数脑-机接口刺激界面，同时基于Matlab平台，集成了大量简单方便的函数，对科研人员的编程要求不高，基本上是科研人员的第一选择。

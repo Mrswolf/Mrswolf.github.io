@@ -8,8 +8,9 @@ tags: [psychopy,]
 ---
 
 <!-- toc -->
+窗口(windows)是刺激呈现的舞台，任何刺激对象都需要指定其所属的窗口对象。Pyschopy的Window对象位于psychopy.visual模块中，一个最简单的窗口示例如下<!--more-->
+
 ## 新建单窗口
-窗口(windows)是刺激呈现的舞台，任何刺激对象都需要指定其所属的窗口对象。<!-- more -->Pyschopy的Window对象位于psychopy.visual模块中，一个最简单的窗口示例如下
 ```python
 # -*- coding: utf-8 -*-
 

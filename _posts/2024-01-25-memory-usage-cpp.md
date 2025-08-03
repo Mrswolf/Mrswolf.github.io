@@ -9,7 +9,7 @@ updated: 2024-01-25 00:00:00
 
 <!-- toc -->
 
-I've been struggling with calculating the memory usage for a week. Here's the case: I got a program that needs to estimate how much memory it may consume during runtime with some predefined inputs, such as the size of images, etc. The problem is that the program is so complicated that nearly no one understands the code fully. Not to mention, there are lots of parallel codes in the program, scaling the memory usage by the dynamic number of threads. <!-- more -->
+I've been struggling with calculating the memory usage for a week. Here's the case: I got a program that needs to estimate how much memory it may consume during runtime with some predefined inputs, such as the size of images, etc. The problem is that the program is so complicated that nearly no one understands the code fully. Not to mention, there are lots of parallel codes in the program, scaling the memory usage by the dynamic number of threads. <!--more-->
 
 ## getrusage
 I really need a way to measure the memory usage of each function, so I googled it and found [Jacob's video](https://youtu.be/Os5cK0H8EOA?si=kQ9j6nD6iHn_b7Pq) talking about `getrusage` function. According to the [document](https://man7.org/linux/man-pages/man2/getrusage.2.html), this function returns mulitple resource usage measures for the calling process, the calling thread or all children of the calling process that have terminated and been waited for. The memory measure is defined in the field `ru_maxrss` of struct `rusage`, which denotes the maximum resident set size (nearly the amount of memory used) in kilobytes. Here's the code I learned from the Jacob's video:

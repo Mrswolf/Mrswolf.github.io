@@ -8,7 +8,7 @@ date: 2022-06-07 00:00:00
 
 <!-- toc -->
 
-出于工作需要，我要开始系统学习c++了。目前我的主力台式机是Linux系统，最常用的编辑器是VS Code，所以想要得到一个比较完整的C/C++工程方案，似乎学习Makefile的相关规则是必不可少的。<!-- more -->本文的内容主要源于[makefile tutorial by example](https://makefiletutorial.com/)（感谢作者大大）。
+出于工作需要，我要开始系统学习c++了。目前我的主力台式机是Linux系统，最常用的编辑器是VS Code，所以想要得到一个比较完整的C/C++工程方案，似乎学习Makefile的相关规则是必不可少的。本文的内容主要源于[makefile tutorial by example](https://makefiletutorial.com/)。<!--more-->
 
 ### 为什么要使用makefile
 

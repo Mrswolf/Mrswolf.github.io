@@ -8,7 +8,7 @@ date: 2023-05-16 00:00:00
 
 <!-- toc -->
 
-The Fourier transform decomposes a function into different frequency components, which can be summed to represent the original function. <!-- more -->
+The Fourier transform decomposes a function into different frequency components, which can be summed to represent the original function. <!--more-->
 
 ## Fourier Series
 ### TL;DR

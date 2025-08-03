@@ -9,7 +9,7 @@ updated: 2023-09-20 00:00:00
 
 <!-- toc -->
 
-I used to do all scientific computing work on Jupyter notebooks. My most common way of debugging was print, which is definitely not the best way to do so. <!-- more --> Things got complex when I sometimes had to debug other packages installed in the Python environment. The debug mode provided in Jupyter is not very convenient. But I do like the freedom of running cells in Jupyter, which is important for testing new algorithms,  so I don't want to move my workflow to other IDEs like Pycharm.
+I used to do all scientific computing work on Jupyter notebooks. My most common way of debugging was print, which is definitely not the best way to do so. Things got complex when I sometimes had to debug other packages installed in the Python environment. The debug mode provided in Jupyter is not very convenient. But I do like the freedom of running cells in Jupyter, which is important for testing new algorithms,  so I don't want to move my workflow to other IDEs like Pycharm. <!--more-->
 
 My final choice is VS Code with its gorgeous Python extensions.
 

@@ -29,13 +29,14 @@ url: "https://mrswolf.github.io" # the base hostname & protocol for your site, e
 github_username:  Mrswolf
 
 # Build settings
-theme: minima
+# theme: minima
 # remote-theme: "jekyll/minima@1fe0fbf"
 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-paginate
   - jekyll-remote-theme
 
 excerpt_separator: <!--more-->
@@ -50,7 +51,8 @@ defaults:
       author: "swolf"
 
 sass:
-  style: compressed
+  sass_dir: _sass
+  # style: compressed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -71,3 +73,6 @@ sass:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# theme settings
+show_excerpts: true

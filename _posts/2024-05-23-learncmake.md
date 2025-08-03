@@ -8,7 +8,7 @@ tags: [c++]
 ---
 <!-- toc -->
 
-CMake is a popular cross-platform build system that allows developers to use a common interface to define a set of rules to build the source code with different compilers, such as GCC, Clang and Visual Studio. In fact, CMake supports not only C/C++, but also other languages such as C# and Fortran. CMake is an essential tool for building software projects and making the whole process easier for anyone. <!--more -->
+CMake is a popular cross-platform build system that allows developers to use a common interface to define a set of rules to build the source code with different compilers, such as GCC, Clang and Visual Studio. In fact, CMake supports not only C/C++, but also other languages such as C# and Fortran. CMake is an essential tool for building software projects and making the whole process easier for anyone. <!--more-->
 
 I put my code [here](https://github.com/Mrswolf/blog_code/tree/main/cmake).
 

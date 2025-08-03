@@ -9,7 +9,7 @@ updated: 2024-01-13 00:00:00
 
 <!-- toc -->
 
-I use Visual Studio when I work at the company. Visual Studio does provide a better coding experience on the Windows platform. But honestly, the majority of the coding at the company is just bug fixing, which is less enjoyable. <!-- more -->  I've made a plan about improving my c++ coding skills since 2024 in my spare time with [my Manjaro system]({% post_url 2019-05-24-manjaro %}). But I don't want to spend too much time diving into details about compiling, linking, etc., at least for now. I want an effortless dev environment to build c++ projects just like Visual Studio does. After some searching, I gotta say, building c++ projects on Linux isn't as hard as it seems at first glance.
+I use Visual Studio when I work at the company. Visual Studio does provide a better coding experience on the Windows platform. But honestly, the majority of the coding at the company is just bug fixing, which is less enjoyable. I've made a plan about improving my c++ coding skills since 2024 in my spare time with [my Manjaro system]({% post_url 2019-05-24-manjaro %}). But I don't want to spend too much time diving into details about compiling, linking, etc., at least for now. I want an effortless dev environment to build c++ projects just like Visual Studio does. After some searching, I gotta say, building c++ projects on Linux isn't as hard as it seems at first glance.<!--more-->
 
 ## Compilers and Debug Tools
 In arch-like systems, installing these tools are easy:
