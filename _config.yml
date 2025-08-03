@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Life Is the Path
-email: mrswolfforever@gmail.com
+title: Life Is A Journey
+email: swolfforever@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcom to swolf's blog. This is a place where I share my thoughts and life experiences.
+  Welcom to swolf's website. This is a place where I share my thoughts and life experiences.
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: mrswolf.github.io 
 url: "https://mrswolf.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -36,7 +36,6 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-paginate
   - jekyll-remote-theme
 
 excerpt_separator: <!--more-->
@@ -76,3 +75,4 @@ sass:
 
 # theme settings
 show_excerpts: true
+google_analytics: "G-2JPFK1G1RZ"

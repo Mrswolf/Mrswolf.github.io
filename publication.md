@@ -4,24 +4,40 @@ title: Publication
 permalink: /pub/
 ---
 
+**Fixed template network and dynamic template network: novel network designs for decoding steady-state visual evoked potentials**
+
+**X Xiao, L Xu**, J Yue, B Pan, M Xu, D Ming, Journal of Neural Engineering, 2022.
+
+[\[link\]][6][\[code\]](https://github.com/Mrswolf/template-networks)
+
 **Enhancing transfer performance across datasets for brain-computer interfaces using a combination of alignment strategies and adaptive batch normalization**
-**L Xu**, M Xu, Z Ma, K Wang, TP Jung, D Ming.(2021)
-[\[link\]][1]
+
+**L Xu**, M Xu, Z Ma, K Wang, TP Jung, D Ming, Journal of Neural Engineering, 2021.
+
+[\[link\]][1][\[code\]](https://github.com/Mrswolf/alignment-methods-and-adabn)
 
 **Improving Transfer Performance of Deep Learning with Adaptive Batch Normalization for Brain-computer Interfaces**
-**L Xu**, Z Ma, J Meng, M Xu, TP Jung, D Ming.(2021)
+
+**L Xu**, Z Ma, J Meng, M Xu, TP Jung, D Ming, 43rd EMBC, 2021.
+
 [\[link\]][2]
 
 **Review of brain encoding and decoding mechanisms for EEG-based brain–computer interface**
-**L Xu**, M Xu, TP Jung, D Ming.(2021)
+
+**L Xu**, M Xu, TP Jung, D Ming, Cognitive Neurodynamics, 2021.
+
 [\[link\]][3]
 
 **Cross-dataset variability problem in EEG decoding with deep learning**
-**L Xu**, M Xu, Y Ke, X An, S Liu, D Ming.(2020)
+
+**L Xu**, M Xu, Y Ke, X An, S Liu, D Ming, Frontiers in human neuroscience, 2020.
+
 [\[link\]][4]
 
 **An source-based common spatial filter selection for improving mis-triggering problem in brain-computer interface based on motor imagery**
-**L Xu**, J Xu, K Wang, Z Wang, M Xu, F He, D Ming, H Qi.(2017)
+
+**L Xu**, J Xu, K Wang, Z Wang, M Xu, F He, D Ming, H Qi, 8th iCAST, 2017.
+
 [\[link\]][5]
 
 
@@ -30,3 +46,4 @@ permalink: /pub/
 [3]: https://link.springer.com/article/10.1007/s11571-021-09676-z
 [4]: https://www.frontiersin.org/articles/10.3389/fnhum.2020.00103/full
 [5]: https://ieeexplore.ieee.org/abstract/document/8256474
+[6]: https://iopscience.iop.org/article/10.1088/1741-2552/ac9861/meta
