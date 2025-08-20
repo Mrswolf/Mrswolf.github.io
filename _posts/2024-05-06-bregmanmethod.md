@@ -42,7 +42,7 @@ $$
 \end{equation}
 $$
 
-where $F(\mathbf{x})$ and $G(\mathbf{x})$ are convex, $G(\mathbf{x})$ is differentiable, and $\min_{\mathbf{x}} G(\mathbf{x}) = 0$.
+where $F(\mathbf{x})$ and $G(\mathbf{x})$ are convex, $G(\mathbf{x})$ is differentiable.
 
 An intuitive way to solve the above problem is to transform it into an unconstrained form:
 
@@ -220,7 +220,7 @@ $$
 \end{equation}
 $$
 
-The first subproblem can be solved by setting the gradient to zero. The second subproblem has an explicit solution with soft-thresholding operator in [this post]({% post_url 2023-09-12-rpca %}). Note that these two subproblem are just one iteration of the alternating minimization method. To achieve the same convergence rate of Equation (14), it requires more iterations (which are called inner loops and the Bregman iterations are outer loops). For most applications, one iteration is only needed.
+The first subproblem can be solved by setting the gradient to zero. The second subproblem has an explicit solution with soft-thresholding operator in [this post]({% post_url 2023-09-12-rpca %}). Note that these two subproblem are just one iteration of the alternating minimization method. To achieve the same convergence rate of Equation ($\ref{eq:14}$), it requires more iterations which are called inner loops (in constrast, the Bregman iterations are called outer loops). For most applications, one inner loop is enough.
 
 
 
