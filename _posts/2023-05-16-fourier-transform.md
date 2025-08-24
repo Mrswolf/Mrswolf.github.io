@@ -2,7 +2,7 @@
 title: Fourier Transform
 categories: [machine learning]
 tags: [machine learning, fourier transform]
-permalink: fourier-transform
+permalink: fourier-transform/
 date: 2023-05-16 00:00:00
 ---
 
