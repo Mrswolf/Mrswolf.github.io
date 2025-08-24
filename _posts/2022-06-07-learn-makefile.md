@@ -2,7 +2,7 @@
 title: Makefile使用规则
 categories: [c++]
 tags: [c++, makefile]
-permalink: learn-makefile
+permalink: /learn-makefile/
 date: 2022-06-07 00:00:00
 ---
 

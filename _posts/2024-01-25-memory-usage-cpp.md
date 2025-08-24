@@ -2,7 +2,7 @@
 title: How to Measure Memory Usage in C++
 categories: [c++]
 tags: [c++]
-permalink: memory-usage-cpp
+permalink: /memory-usage-cpp/
 date: 2024-01-25 00:00:00
 updated: 2024-01-25 00:00:00
 ---

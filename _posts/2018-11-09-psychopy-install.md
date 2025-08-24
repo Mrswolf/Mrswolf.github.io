@@ -2,7 +2,7 @@
 title: Psychopy安装和使用
 date: 2018-11-09 21:03:15
 updated: 2022-06-04 14:49:00
-permalink: /psychopy-install
+permalink: /psychopy-install/
 categories: [psychopy,]
 tags: [psychopy,]
 ---

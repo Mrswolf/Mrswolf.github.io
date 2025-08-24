@@ -2,7 +2,7 @@
 title: 为什么要少用逆矩阵
 categories: [machine learning]
 tags: [machine learning, linear algebra]
-permalink: why-not-invert-that-matrix
+permalink: /why-not-invert-that-matrix/
 date: 2022-05-30 00:00:00
 updated: 2022-06-02 00:00:00
 ---

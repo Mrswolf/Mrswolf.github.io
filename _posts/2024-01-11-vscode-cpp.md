@@ -2,7 +2,7 @@
 title: Build Modern C++ Projects in VSCode
 date: 2024-01-11 20:43:30
 categories: [c++]
-permalink: vscode-cpp
+permalink: /vscode-cpp/
 tags: [c++]
 updated: 2024-01-13 00:00:00
 ---

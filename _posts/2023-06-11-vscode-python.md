@@ -3,7 +3,7 @@ title: Scientific Computing in VS Code
 date: 2023-06-11 20:23:45
 categories: [python]
 tags: [python]
-permalink: vscode-python
+permalink: /vscode-python/
 updated: 2023-09-20 00:00:00
 ---
 

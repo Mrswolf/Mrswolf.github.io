@@ -2,7 +2,7 @@
 title: MATLAB分布式集群搭建记录
 categories: [matlab,]
 tags: [matlab,]
-permalink: matlab-mdce-log
+permalink: /matlab-mdce-log/
 date: 2019-05-20 00:00:00
 updated: 2022-03-21 00:00:00
 ---

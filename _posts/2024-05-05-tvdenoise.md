@@ -1,7 +1,7 @@
 ---
 title: Total Variation Denoising Problem
 categories: [machine learning]
-permalink: tvdenoise
+permalink: /tvdenoise/
 date: 2024-05-05 00:00:00
 updated: 2024-05-05 00:00:00
 tags: [machine learning]

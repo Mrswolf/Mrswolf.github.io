@@ -1,7 +1,7 @@
 ---
 title: CMake Cheatsheet
 categories: [c++]
-permalink: learncmake
+permalink: /learncmake/
 date: 2024-05-23 00:00:00
 updated: 2024-06-24 00:00:00
 tags: [c++]

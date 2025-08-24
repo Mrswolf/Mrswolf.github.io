@@ -2,7 +2,7 @@
 title: 矩阵微积分
 categories: [machine learning,]
 tags: [machine learning,]
-permalink: matrix-calculus
+permalink: /matrix-calculus/
 date: 2022-03-28 00:00:00
 updated: 2022-03-31 00:00:00
 ---

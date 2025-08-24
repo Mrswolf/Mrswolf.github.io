@@ -2,7 +2,7 @@
 title: 如何在Psychopy中新建窗口
 date: 2018-11-16 21:15:22
 updated: 2022-06-04 14:59:14
-permalink: /psychopy-window
+permalink: /psychopy-window/
 categories: [psychopy,]
 tags: [psychopy,]
 ---

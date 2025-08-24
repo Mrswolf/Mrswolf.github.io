@@ -2,7 +2,7 @@
 title: Psychopy坐标系统与显示器设置
 date: 2018-11-11 21:20:16
 updated: 2022-06-04 14:49:00
-permalink: /psychopy-coordinate
+permalink: /psychopy-coordinate/
 categories: [psychopy,]
 tags: [psychopy,]
 ---

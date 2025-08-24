@@ -2,7 +2,7 @@
 title: Psychopy事件响应
 date: 2019-01-08 17:01:30
 updated: 2022-06-04 14:56:24
-permalink: psychopy-event
+permalink: /psychopy-event/
 categories: [psychopy,]
 tags: [psychopy,]
 ---
