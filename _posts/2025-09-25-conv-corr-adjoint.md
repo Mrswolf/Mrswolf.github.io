@@ -53,7 +53,7 @@ $$
 
 In other words, the convolution of $h$ and $f$ can be obtained by flipping and conjugating $h$, and then performing a cross-correlation with $f$; the cross-correlation of $h$ and $f$ can be obtained by flipping and conjugating $h$, and then performing a convolution with $f$.
 
-## The Adjoint Operators of Convolution and Cross-Correlation
+## The Adjoint Operators
 An operator $A$ and its adjoint $A^*$ should satisfy the following equation:
 
 $$
