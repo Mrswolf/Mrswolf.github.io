@@ -5,6 +5,7 @@ tags: [c++]
 permalink: /circshift/
 date: 2024-03-25 00:00:00
 updated: 2024-04-03 00:00:00
+toc: true
 ---
 
 <!-- toc -->

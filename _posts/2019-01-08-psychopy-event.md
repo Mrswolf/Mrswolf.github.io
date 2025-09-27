@@ -5,6 +5,7 @@ updated: 2022-06-04 14:56:24
 permalink: /psychopy-event/
 categories: [psychopy,]
 tags: [psychopy,]
+toc: true
 ---
 <!-- toc -->
 Psychopy提供了很多IO交互方式，当然，最根本的还是键盘和鼠标。本节介绍Psychopy鼠标和键盘的编程技巧。<!--more-->

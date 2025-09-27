@@ -5,6 +5,7 @@ tags: [machine learning, linear algebra]
 permalink: /why-not-invert-that-matrix/
 date: 2022-05-30 00:00:00
 updated: 2022-06-02 00:00:00
+toc: true
 ---
 
 <!-- toc -->

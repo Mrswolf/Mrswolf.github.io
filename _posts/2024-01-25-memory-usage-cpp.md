@@ -5,6 +5,7 @@ tags: [c++]
 permalink: /memory-usage-cpp/
 date: 2024-01-25 00:00:00
 updated: 2024-01-25 00:00:00
+toc: true
 ---
 
 <!-- toc -->

@@ -5,6 +5,7 @@ categories: [python]
 tags: [python]
 permalink: /vscode-python/
 updated: 2023-09-20 00:00:00
+toc: true
 ---
 
 <!-- toc -->

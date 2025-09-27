@@ -5,6 +5,7 @@ categories: [c++]
 permalink: /vscode-cpp/
 tags: [c++]
 updated: 2024-01-13 00:00:00
+toc: true
 ---
 
 <!-- toc -->

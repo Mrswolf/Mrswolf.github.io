@@ -5,6 +5,7 @@ update: 2025-09-25 00:00:00
 categories: [machine learning, magnetic resonance imaging]
 tags: [machine learning, magnetic resonance imaging]
 permalink: /conv-corr-adjoint/
+toc: true
 ---
 
 <!-- toc -->

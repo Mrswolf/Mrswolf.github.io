@@ -5,6 +5,7 @@ updated: 2022-06-04 14:59:14
 permalink: /psychopy-window/
 categories: [psychopy,]
 tags: [psychopy,]
+toc: true
 ---
 
 <!-- toc -->

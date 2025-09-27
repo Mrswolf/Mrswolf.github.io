@@ -5,6 +5,7 @@ permalink: /tvdenoise/
 date: 2024-05-05 00:00:00
 updated: 2024-05-05 00:00:00
 tags: [machine learning]
+toc: true
 ---
 
 **Total variation (TV) denoising**, also known as TV regularization or TV filtering, is a powerful technique widely used in various fields, including medical imaging, computer vision, etc. It removes noises while preserving most important structural features. **[The first image of black hole, captured by Event Horizon Telescope (EHT), was processed and revealed with this technique in 2019](https://www.ipam.ucla.edu/news/rudin-osher-fatemi-model-captures-infinity-and-beyond/)**. <!--more-->The concept was proposed in 1992 by Rudin, Osher and Fatemi, known as the ROF model which is a continuous form of TV denoising problem. 

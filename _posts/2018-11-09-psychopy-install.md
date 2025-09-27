@@ -5,6 +5,7 @@ updated: 2022-06-04 14:49:00
 permalink: /psychopy-install/
 categories: [psychopy,]
 tags: [psychopy,]
+toc: true
 ---
 
 <!-- toc -->

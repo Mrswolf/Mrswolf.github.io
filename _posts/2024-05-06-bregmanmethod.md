@@ -5,6 +5,7 @@ tags: [machine learning]
 permalink: /bregmanmethod/
 date: 2024-05-06 00:00:00
 updated: 2024-05-10 00:00:00
+toc: true
 ---
 
 

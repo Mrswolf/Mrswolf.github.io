@@ -20,9 +20,41 @@ layout: default
       {%- endif -%}</p>
   </header>
 
+  {%- if page.toc -%}
+  <nav class="toc-container" id="toc-container">
+    <div class="toc-title">Table of Contents</div>
+    <ul class="toc-list" id="toc-list"></ul>
+  </nav>
+  {%- endif -%}
+
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
+
+  {%- if page.toc -%}
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      var content = document.querySelector('.post-content');
+      var tocList = document.getElementById('toc-list');
+      if (!content || !tocList) return;
+      function slugify(text) {
+        return text.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+      }
+      var headings = content.querySelectorAll('h2, h3');
+      headings.forEach(function(h) {
+        var level = parseInt(h.tagName[1]);
+        if (!h.id) h.id = slugify(h.textContent);
+        var li = document.createElement('li');
+        li.style.marginLeft = ((level-2)*1.2) + 'em';
+        var a = document.createElement('a');
+        a.href = '#' + h.id;
+        a.textContent = h.textContent;
+        li.appendChild(a);
+        tocList.appendChild(li);
+      });
+    });
+  </script>
+  {%- endif -%}
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
