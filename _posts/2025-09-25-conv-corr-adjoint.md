@@ -101,7 +101,7 @@ $$
 \begin{split}
 \mathcal{F}(h^*(t))(k) &= \mathcal{F}(h)^*(-k)\\
 \mathcal{F}(h(-t))(k) &= \mathcal{F}(h)(-k)\\
-\mathcal{F}(h*(-t))(k) &= \mathcal{F}(h)^*(k)\\
+\mathcal{F}(h^*(-t))(k) &= \mathcal{F}(h)^*(k)\\
 \end{split}
 \end{equation}
 $$
