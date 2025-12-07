@@ -101,4 +101,11 @@ In other words, the combination `fftshift(ifft(ifftshift(x)))` is equivalent to 
 For higher-dimensional arrays, these operations can be performed independently along each dimension.
 
 
+## Performance
+I implemented [`fftnc_mod/ifftnc_mod`](https://github.com/Mrswolf/psygine/blob/main/psygine/decoders/utils/fourier.py) in Python. For small arrays, this phase modualtion trick yielded negligible performance gains. This can be atrributed to these reasons:
 
+1. Modern memory architecures handle data movement efficiently, especially when using highly optimized c/cpp libraries.
+2. The overhead of the Python interpreter dominates execution time, masking the efficiency of numerical operations handled by Numpy.
+3. The cost of evaluating complex exponential functions outweighs the time saved by avoiding data movement.
+
+However, I did observe [performance gains when pre-computing the phase modulation array](https://github.com/Mrswolf/psygine/blob/main/demos/decoders/fftmod.ipynb).
