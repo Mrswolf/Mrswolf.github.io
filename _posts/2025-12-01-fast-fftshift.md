@@ -100,6 +100,22 @@ In other words, the combination `fftshift(ifft(ifftshift(x)))` is equivalent to 
 
 For higher-dimensional arrays, these operations can be performed independently along each dimension.
 
+## Universal Formulas
+Following the same symmetric design of `fftshift/ifftshift`, we have:
+
+$$
+\begin{equation}
+\begin{split}
+fftmod(x[n]) &= x[n] e^{i2\pi\frac{(n - S/2)S}{N}}\\
+ifftmod(x[k]) &= x[k] e^{-i2\pi\frac{(k - S/2)S}{N}}
+\end{split}
+\end{equation}
+$$
+
+which are elementwise functions. Note that:
+
+- `fftshift(fft(ifftshift(x))) = fftmod(fft(fftmod(x)))`
+- `fftshift(ifft(ifftshift(x))) = ifftmod(ifft(ifftmod(x)))`.
 
 ## Performance
 I implemented [`fftnc_mod/ifftnc_mod`](https://github.com/Mrswolf/psygine/blob/main/psygine/decoders/utils/fourier.py) in Python. For small arrays, this phase modualtion trick yielded negligible performance gains. This can be atrributed to these reasons:
