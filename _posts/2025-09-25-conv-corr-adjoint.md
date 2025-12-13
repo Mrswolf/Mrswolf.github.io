@@ -106,3 +106,18 @@ $$
 \end{equation}
 $$
 
+## List of Common Functions
+
+| Software | Function | Implementation|
+| :--- | :--- | :--- |
+| **PyTorch** | `torch.nn.functional.conv1d` | **Cross-Correlation**|
+| **TensorFlow** | `tf.keras.layers.Conv2D` | **Cross-Correlation**|
+| **NumPy** | `numpy.convolve` | **Convolution**|
+| **NumPy** | `numpy.correlate` | **Cross-Correlation**|
+| **SciPy** | `scipy.signal.convolve` | **Convolution**|
+| **SciPy** | `scipy.signal.correlate` | **Cross-Correlation**|
+| **SciPy** | `scipy.ndimage.convolve` | **Convolution**|
+| **SciPy** | `scipy.ndimage.correlate` | **Cross-Correlation**|
+| **MATLAB** | `conv` | **Convolution**|
+| **MATLAB** | `xcorr` | **Cross-Correlation**|
+| **MATLAB** | `filter` | **Cross-Correlation** <br> **without conjugation**|
