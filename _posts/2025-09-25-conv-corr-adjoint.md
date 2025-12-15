@@ -110,8 +110,8 @@ $$
 
 | Software | Function | Implementation|
 | :--- | :--- | :--- |
-| **PyTorch** | `torch.nn.functional.conv1d` | **Cross-Correlation**|
-| **TensorFlow** | `tf.keras.layers.Conv2D` | **Cross-Correlation**|
+| **PyTorch** | `torch.nn.functional.conv1d` | **Cross-Correlation** <br> **without conjugation**|
+| **TensorFlow** | `tf.keras.layers.Conv1D` | **Cross-Correlation** <br> **without conjugation**|
 | **NumPy** | `numpy.convolve` | **Convolution**|
 | **NumPy** | `numpy.correlate` | **Cross-Correlation**|
 | **SciPy** | `scipy.signal.convolve` | **Convolution**|
