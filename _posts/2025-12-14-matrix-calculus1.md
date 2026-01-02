@@ -73,6 +73,8 @@ $$
 \end{equation}
 $$
 
+And the gradient of $f(\mathbf{z}, \bar{\mathbf{z}})$ is $\partial f/ \partial \bar{\mathbf{z}} = D_{\bar{\mathbf{z}}}f$ (not $\partial f/ \partial \mathbf{z} = D_{\mathbf{z}}f$).
+
 
 
 
